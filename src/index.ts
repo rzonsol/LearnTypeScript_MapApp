@@ -4,4 +4,4 @@ import { GoogleMap } from './GoogleMap';
 
 const user = new User();
 
-const map = new GoogleMap();
+const map = new GoogleMap('map');
